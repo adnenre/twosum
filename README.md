@@ -8,7 +8,7 @@ npm install @adnen/twosum
 ## Usage
 
 ```typescript
-import twosum from '@adnen/twosum'
+import twoSum from '@adnen/twosum'
 
 
 const nums   : number[]   = [1,2,7,11,15];
