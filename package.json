@@ -1,12 +1,16 @@
 {
   "name": "@adnen/twosum",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "two sum algorithm imlementation with time complexity o(n)",
   "type": "module",
   "main": "dist/index.js",
+  "keywords": [
+    "twosum algorithme",
+    "find sum in array of numbers"
+  ],
   "scripts": {
     "test": "jest --coverage",
-    "build": "npx tsc src/main.ts && rollup -c"
+    "build": "npx tsc src/main.ts --declaration --allowJs --emitDeclarationOnly --outDir types && rollup -c"
     
   },
   "author": "adnen rebai",
