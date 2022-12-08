@@ -2,13 +2,13 @@
 ## Install
 
 ```bash
-npm install twosum
+npm install @adnen/twosum
 ```
 
 ## Usage
 
 ```typescript
-import twosum from 'twosum'
+import twosum from '@adnen/twosum'
 
 
 const nums   : number[]   = [1,2,7,11,15];
