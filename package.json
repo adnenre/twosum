@@ -1,6 +1,6 @@
 {
   "name": "@adnen/twosum",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "two sum algorithm imlementation with time complexity o(n)",
   "type": "module",
   "main": "dist/index.js",
